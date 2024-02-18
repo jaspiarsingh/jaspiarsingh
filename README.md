@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaspiarsingh
-- 👀 I’m interested in Front-End development 
-- 🌱 I’m currently learning HTML, CSS, Javascript & React.JS 
-- 💞️ I’m looking to collaborate on website projects
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently working on projects in Sql, Pyton, Excel, Power BI, Tableau
+
 
 <!---
 jaspiarsingh/jaspiarsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
